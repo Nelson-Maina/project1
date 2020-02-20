@@ -1,0 +1,7 @@
+env
+media
+db.sqlite3
+LICENSE.txt
+_pycache_/
+*.log
+*.pot
